@@ -1,0 +1,11 @@
+/* Add your custom styles here */
+.section {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #e7f1ff;
+}
